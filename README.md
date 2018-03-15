@@ -8,8 +8,8 @@ The math for basic frame work are in __init__ file, and more details will be upd
 The model is built by numpy only, so it has all the advantages from numpy except the support for GPU.
 
 ## Model Details:
-1. Basic multi-layer neural work with L2 regularization.
-2. Activation functions are ReLu, Sigmoid, Softmax, and support classification.
+1. Basic multi-layer neural net with L2 regularization.
+2. Activation functions are ReLu, Sigmoid, Softmax, tanh, cosh. Support multi-classes classification and regression.
 3. Batch norm for each hidden layer.
 4. Default optimization is Adam.
 
