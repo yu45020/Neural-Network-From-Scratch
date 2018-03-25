@@ -56,3 +56,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+\.idea/
+
+multi_layer_neural_net/mist\.gz
+
+multi_layer_neural_net/regression_test\.py
